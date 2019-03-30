@@ -15,3 +15,6 @@ There are 3 variables (in X direction) that are being controlled by user's gestu
 ## Building Game_Sample
 Open the Game_Sample.sln solution file in Visual Studio and rebuild the project. 
 If you want to directly run the game, open Ten_pin_rough.exe.
+
+## Demo
+Here is a demo on how to [play](https://www.behance.net/gallery/70237777/AR-based-Tenpin-Bowling).
